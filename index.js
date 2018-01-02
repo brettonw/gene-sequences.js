@@ -1,7 +1,7 @@
 let Http = Bedrock.Http;
 let main = function () {
     let now = new Date ().getTime ();
-    Http.get ("subject1.json?" + now, function (sequences) {
+    Http.get ("subjects.json?" + now, function (sequences) {
         console.log ("loaded sequences.");
 
         let withinTolerance = function (a, b, tolerance) {
