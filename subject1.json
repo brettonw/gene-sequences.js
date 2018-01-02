@@ -1,0 +1,1418 @@
+[
+  {
+    "ID": "p7c002_969",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 969,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaagtatatctctaggaccggggagagcattttatgcagcaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactctacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaaccctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c002_970",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 970,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaagtatatctctaggaccggggagagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaaccctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c002_971",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 971,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaggtatatctctaggaccggggagagcattttatgcagcaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaaccctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c002_972",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 972,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaagtatatctataggaccggggagagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacggggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c002_973",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 973,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaagtatatctataggaccggggagagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggagaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagagtaaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c002_974",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 974,
+    "Sequence": "gaagaagaggtagtaactagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaagtatatctctaggaccggggagagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaaccctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c002_975",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 975,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaagtatatctataggaccggggagagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctactattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c002_976",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 976,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatataagaaaaagtatatctatagggccggggagaacattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttggaaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatacccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c002_977",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 977,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaagtatatctataggaccggggagagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttagttgtggaggagaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c002_978",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 2,
+    "Clone": 978,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaagtatatctataggaccggggagagcattttatgcaacaggaagcataacaggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcagaaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_979",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 979,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtataagacccagcaacaatacaaggaaaagtatacctataggaccggggagagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttaggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_980",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 980,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgcaaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_981",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 981,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaactatacaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggacgcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaatatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_982",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 982,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacataataggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattaaaagaacaatttaggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaagctatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_983",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 983,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccggcaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagtcacaaaattaaaagaacaatttaggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_984",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 984,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacataataggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattaaaagaacaatttaggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaggagatggtggt"
+  },
+  {
+    "ID": "p7c025_985",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 985,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacataataggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattaaaagaacaatttaggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaagagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_986",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 986,
+    "Sequence": "gaagaagaggtagtaattaaatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacctataggaccggggagagcattttatgcaacaggagacataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattaaaagaacaatttaggaagaaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaatatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_987",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 987,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccggcaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttaggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattatggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_988",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 988,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaagaaaaagtatatctataggaccggggaaagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacgatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_989",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 989,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctagaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaactatacaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggacgcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacaggacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacggctgtttaacagtacttgggaatatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c025_990",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 25,
+    "Clone": 990,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcactgacaatgctaaaaccataatagtacagctgaaggaatctgtagaaatcaattgtacaagacacaacaacaatacaagaaaaagtatccatataggaccggggagagcattttatgcaacaggagacataataggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagataggtaaaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggggtttttctactgtaatacaacacagctgtttaacagtacttgggaatatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_1000",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 1000,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtataagacccaacaacaatacaagaaaaagtatacctataggaccggggagagcattttatgcaacaggagacataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattaaaagaacaatttaggaataaaacaatagtctttaatcaatccttaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatccaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_1001",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 1001,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggaggcatagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_991",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 991,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaagaagtatacatataggatcggggagagcattttatgcaacaggagacataataggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_992",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 992,
+    "Sequence": "aaagaagaggtagtaattagatctgaaaatttcacagacaatgccaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacatagtagaaaatataacacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattaacagagcaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcgatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_993",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 993,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaaggaaaagtatacctataggaccggggagagcattttatgcaacaggagacataataggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_994",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 994,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtataagacccaacaacaatacaagaaaaagtatacctataggaccggggagagcattttatgcaacaggagacataataggagatataagacaagcacattgtaacattagtagaacaaaacggaataacactttacaacagataattacaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggagactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_995",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 995,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacataataggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttgaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_996",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 996,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaactatacaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggacgcataatgggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaatatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_997",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 997,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaccaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacataataggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattaacaaaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcagaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_998",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 998,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccgacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacatagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaatgatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c031_999",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 31,
+    "Clone": 999,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtataagacccaacaacaatacaaggaaaagtatacatataggaccggggagagcattttatgcaacaggagacataataggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagataattacaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1002",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1002,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacagacaatgctaaaaccgtaatagtacagctgaaggaatctgtagaaattaattgtacaaggcccaacgactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1003",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1003,
+    "Sequence": "gaagaagatgtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggcccaacgactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaaacataataggaaatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacaacagatggttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaacgcacagttttaattgtggaggggaatttttctactgtaagacgacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcgatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1004",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1004,
+    "Sequence": "gaagaagaggtagtaattagatctaaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaaggcccaacaactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggacgcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatatttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaatatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcgatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1005",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1005,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggcccaacgactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaaacataataggaaatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacaacagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttactcaaccctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtgccaggaagtaggaaaagcaatgtacgcccctcccatcgaaggacaaattaaatgttcatcaaatattgcagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1006",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1006,
+    "Sequence": "gaagaagatgtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaaggcccaacaactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1007",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1007,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctggatgaatctgtagaaattaattgtacaaggcccaacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaagcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1008",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1008,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggcccaacgactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaagcataataggagatataagacaagcacattgtaacattaatagaacaaaatggaataacactttacaacagatagttaaaaaattacaaaaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1009",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1009,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctaaatgaatctgtagaaattaattgtacaaggcccaacgactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattacaaaaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcgatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1010",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1010,
+    "Sequence": "gaagaagaggtagtaattagacctgaaaatttcacagacaatgccaaaaccataatagtacagctgacgaaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatgacactttacaacagatagttacaagattaagaaaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttttactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c044_1011",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 44,
+    "Clone": 1011,
+    "Sequence": "gaaaaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtataagacccaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1012",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1012,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgccaaaaccataatagtacagctgacgaaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacatagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaagattaagaaaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaattatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1013",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1013,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacatagtaggaaatataagacaagcacattgtaacattagtagagcaaaatggaataacactttacaacagatagttacaagattaagaaaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1014",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1014,
+    "Sequence": "gaagaagaggtagtaagtagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttttgcaacagaagaaatagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttacaacagatagttacaagattaagaaaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggagggaaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1015",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1015,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggacgcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaatataccacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaagaaaggcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1016",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1016,
+    "Sequence": "gaagaagatgtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggcccaacgactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaagcataataggagatataagacaagcatattgtaacattagtagaacaaaatggaataacactttacaacagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttactcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcaaactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcgatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctagtaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1017",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1017,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggagtctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacatagtaggaaatataagacaagcacattgtaacattagtagagcaaaatggaataacactttacaacagatagttacaagattaagaaaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1018",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1018,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggctctacaactataggaggaaaggtatacatataggaccggggagagcaatttatgcaacaggaggcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1019",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1019,
+    "Sequence": "gaaaaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaaggcccaacaactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggacgcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaatatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcgatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1020",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1020,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaaggaaaagtatacctataggaccggggagagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaagaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1021",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1021,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggctctacaactatagaaggaaaggtatacatataggaccggggagagcaatttatgcaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaagatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1022",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1022,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacacatagaaccagggagagcattttatgcaacagaagacatagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttaacaaattaagaaaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgcaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1023",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1023,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggctctacaactatagaaggaaaggtatacatataggaccggggagagcaatttatgcaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcatatagttaaaaaattaacagagcaatttgggaataaaacaataatctttaagcaatcctcgggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcgatgtatgcccctcccatcgaaggagaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1024",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1024,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggctctacaactatagaaggaaaggtatacatataggaccggggagagcaatttatgcaacaggaggcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c050_1025",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 50,
+    "Clone": 1025,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccagcaacaatacaaggaaaagtatacctataggaccggggagagcattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttaggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1026",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1026,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggctctacaactatagaaggaaaggtatacatataggaccggggagagcaatttatgcaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcaggtagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtagggaaagcaatgtatgcccctcccatagaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1027",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1027,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggcccaacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataaaagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttagttgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttggaaaaatatcacgctcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1028",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1028,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttggaaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1029",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1029,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggctctacaactatagaaggaaaggtatacatataggaccggggagagcaatttatgcaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacaggacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1030",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1030,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatctcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggaggcatagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttggaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1031",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1031,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacatagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacaattccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1032",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1032,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaagaaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatgacactttacaacagatagttacaagattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1033",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1033,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatacgacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatagaaggacaaattaaatgtttatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1034",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1034,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataggagatataagaaaggcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1035",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1035,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtggaaattaattgtacaagacacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatgacactttacaacagatagttacaagattaagaaaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcaaactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcgatgtatgcccctcccatcgaaggagaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c056_1036",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 56,
+    "Clone": 1036,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggaggcatagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttgaaaaattaacagaacaatttgggaataagacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1037",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1037,
+    "Sequence": "gaagaagaggtagtaatcagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattagttgtacaaggccctacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1038",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1038,
+    "Sequence": "gaagaagaggtagtaattagatcagaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacgaatatagaaaaaaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccggaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatagaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1039",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1039,
+    "Sequence": "gaagaagaggtaataattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggcccaacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaagcataataggaggtataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcaggtagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggagggggatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatagaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1040",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1040,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaatcgtacaaggctctacaactatagaaggaaaggtatacatataggaccggggagagcaatttatgcaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggactaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1041",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1041,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacaaatatagaagacaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1042",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1042,
+    "Sequence": "gaagaagatgtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggcccaacgactacagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaaacataataggaaatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacaacagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatagaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1043",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1043,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacgttgtaacattagtagaacaaaatggaatgacactttacaacagatagttaacaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1044",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1044,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatagaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1045",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1045,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataggagatataagaaaagcacattgtagcattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaacacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatagaaggacaaattaaatgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c062_1046",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 62,
+    "Clone": 1046,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgccaaaaccataatagtacagctgacgaaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatgacactttacaacagatagttacaagactaagaaaacaatttgggaataaaacaataatctttaatcaagcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaattatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1047",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1047,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaacgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatgggatgacactttacagcagatagctaaaaaattaacagaacaatttgagaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaattattacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcctatcaaaggactaattaactgtccctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1048",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1048,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaataaatctgtagaaattaattgtacaaggccctacaaatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtgatacaacacagctgtttaacagtacttgggaaattatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgtttatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1049",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1049,
+    "Sequence": "aaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaataaatctgtagaaattaattgtacaaggccctacaaatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaacgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1050",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1050,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctaaataaatctgtagaaattaattgtacaaggccctacaaatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaatgacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaacatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgtttatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1051",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1051,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcgcagacaatgctaaaaccataatagtacagctgaataaatctgtagaaattaattgtacaaggccctacgaatatagaaaaaagggtatacatataggaccggggagagcaatttatacaacaggaaacatacaaggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagctaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1052",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1052,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacatctgaatgaatctgtagaaattaattgtacaaggccctacagatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccattgaaggagaaattaaatgtttatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1053",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1053,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcgcagacaatgctaaaaccataatagtacagctgaataaatctgtagaaattaattgtacaaggccctatgaatatagaaaaaggggtatacatataggaccggggagagcaatttatacaacaggaaacatacaaggaggtataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatagaaggacaaattaaatgttcatcaaatattacaggactgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1054",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1054,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaataaatctgtagaaattaattgtataaggccctacaaatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacaatacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgtttatcaaatattacagggctgctattaacaagggatggtggt"
+  },
+  {
+    "ID": "p7c074_1055",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1055,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaataaatctgtagaaattaattgtacaaggccctacgaatatagaaaaaagggtatacatataggaccggggagagcaatttatacaacaggaaacatacaaggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtgtgcccctcccatagaaggacaaattaaatgttcgtcaaatattacaggactgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1056",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1056,
+    "Sequence": "gaagaagatgtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaaggcccaacgactatagaagaaaaggtatacatataggaccggggagagcaatttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacagcagatagttaaagaattacaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaagacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1057",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1057,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaataaatctgtagaaattaattgtacaaggccctacaaatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaacgtatgcccctcccatcgaaggagaaattaaatgtttatcaaatattacagggctgctattgacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1058",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1058,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaataaatctgtagaaattaattgtataaggccctacaaatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcaggataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1059",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1059,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcgcagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacgaatatagaaaaaagggtatacatataggaccggggagagcaatttatacaacaggaaacatacaaggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1060",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1060,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataataggaaatataagacaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatagaaggacaaattaaatgtttatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1061",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1061,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacaaatatagaagacaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaatactctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1062",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1062,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcgcagacaatgctaaaaccataatagtacatctgaatgaatctgtagaaattaattgtacaaggccctacaaatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataaacggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaatactctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatagaaggacaaattaaatgttcatcaaatattacagggctgctattagcaagagatggtggt"
+  },
+  {
+    "ID": "p7c074_1063",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 74,
+    "Clone": 1063,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaagaatctgtagaaattaattgtacaagatacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacatagtaggaaatataagacaagcacattgtaacattagtaaaacaaaatggaataacactttacaacagataattacaagattaagaaaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaagaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattagatgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1064",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1064,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacatctgaatgaatctgtagaaattaattgtacaaggccctacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataggagatataagaaaagcacattgtaaccttaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgctcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1065",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1065,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatagaaggacaaattaaatgtttatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1066",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1066,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatacaaggagatataagaaaagcacattgtaacattaatggaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggagacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacgaattaaatgttcatcaaatattacagggctgctattaacaagagatgggggt"
+  },
+  {
+    "ID": "p7c080_1067",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1067,
+    "Sequence": "gaagaagaggtagtaattaggtctgaaaatttcacagacaatgctaaaaccataatagtacagctgaataaatctgtagaaattaattgtacaaggccctacaaatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggagaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcatactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgtttatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1068",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1068,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacgaatatagaagaaaaggtatacatataggaccggggagagcaatttatacaacaggaggcataataggagatataagaaaagcacattgtaaccttaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatctttctactgtaatacaacacagttgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1069",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1069,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacaaatatagaagaaaaggtatacatataggaccggggagagcaatttatacagcaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcatactcccacgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgtttatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1070",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1070,
+    "Sequence": "gaaagagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccaaggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagcagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcatactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgtttatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1071",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1071,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcgcagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataaacggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagacagttaaaaaattaacagaacaatttgggaataaaacaatactctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1072",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1072,
+    "Sequence": "gaagaagaggtagtagttagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacaaatatagaagaaaaggtatacatataggaccggggagagcaatttatacagcaggaggcataataggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttatgcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggagaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1073",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1073,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagatacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacatagtaggaaatataagacaagcacattgtagcattagtagaacaaaatggaataacactttacaacagatagttacaagattaagaaaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaaatgtccatcaaatattgcagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1074",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1074,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtggaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaattatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgttattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7c080_1075",
+    "Patient": 7,
+    "Sample Type": "c",
+    "Month": 80,
+    "Clone": 1075,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacagatatagaagacaaggtatacatataggaccggggagagcaatttatacagcaggaaacataaacggagatacaagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaacagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggacgggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccgtgcagaataaaacaaattataaacgggtggcaggaagtaggaaaagcaatgtatgcccctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p003_1084",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 3,
+    "Clone": 1084,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtaggaattaattgtacaagacccagcaacaatacaagaaaaagtatatctataggaccggggagaacattttatgcaacaggaagcataataggagatataagacaagcacattgtaacattagtagaacaaaatggaataacactttacaacagatagttacaaaattaaaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1107",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1107,
+    "Sequence": "gaagaagaggtagtaattaggtctgaaaatttcgcagacaatactaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatggaacaaaatggaataacactttacagcaggtagttaaaaaattaagagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaagtatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1108",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1108,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagtgattaattgtacaagatacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacatagtaggaaatataagacaagcacattgtaacattagtaaaacaaaatgggatagcactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttggagcaatatcacactccaatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgttattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1109",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1109,
+    "Sequence": "gaagaagaggtagtaattaggtctgaaaatttcgcagacaatactaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatggaacaaaatggaataacactttacagcaggtagttaaaaaattaagagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaagtatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1110",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1110,
+    "Sequence": "ggaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtaaaacaaaatggaataacaccttacagcagatagttaaaaaattaagagaacaatttggaaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttggagcaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattagatgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1111",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1111,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagaaattaattgtacaagacacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttacaacagatagttgacaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacggctgtttaacagtacttgggaaactaccacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatatatgcccctcccatcaaaggactaattaactgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1112",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1112,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaattttgcagacaatactaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccatacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatggaacaaaatggaataacactttacagcaggtagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaagtatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1113",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1113,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggagtctgtaataattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttaaagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacagagctgtttaacagtacttggagcaatatcacactcccatgcagaataaaacaaattataagcaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggattaattaactgtccctcaaatattacagggctgttattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1114",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1114,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacagcagcaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacatagtaggaaatataagacaagcacattgtaacattagcagaacaaaatggaataacacgttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttggagcaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattagatgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1115",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1115,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtggaacaaaatggaatgacactttacagcagatagctaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggacattatcacactcccatgcaaaataaaacaaattataaacaggtggcaagaagtaggaaaagcagtgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgttattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1116",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1116,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggagtctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacatagtaggaaatataagacaagcgcattgtaacattagtaagacaaaatggaatgacactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacagagctgtttaacagtacttggagcaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattagatgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1117",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1117,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacgatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacacgcacattgtaacattagtggaacaaaatggaataacactttacagcagatagttaaaaaattaagagaacaatttgggaacaaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtgatacaacacagttgtttaacagtacttggagcaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1118",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1118,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtaataattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtggaacaaaatggaatgacactttacagcagatagctaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaattatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgttattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1119",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1119,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagttgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttacaacagatagttgacaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagtttcaattgtggaggggaatttttctactgtaatacatcacagttgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1120",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1120,
+    "Sequence": "gaagaagaggtagtgattagatctgaaaatttcgcagacaatactaaaaccataatagtacagctgaatgaatctgtacaaattaattgtacaaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaagtatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1121",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1121,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcgcagacaatactaaaaccataatagtacagctgaatgaatctgtacaaattaattgtacaaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatagaacaaaatggaataacactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaagtatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1122",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1122,
+    "Sequence": "gaagaagaggtaataattagatctgaaaatttcgcagacaatactaaaaccataatagtacagctgaatgaatctgtacaaattaattgtacaaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatagtacaaaatggaataacactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtccttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaagtatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctcttccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p087_1123",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 87,
+    "Clone": 1123,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaattttgcagacaatacaaaaaccataatagtacagctgaatgaatctgtagaaattagttgtacaaggccatacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatggaacaaaatggaataacactttacagcaggtagttagaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaattttcctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1124",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1124,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttacagcagatagttaaaaaattaagagaacaatttgggaataaagcaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1125",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1125,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtaataattaattgtacaaggtacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttaaagcagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacagagctgtttaacagtacttgggaaattatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1126",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1126,
+    "Sequence": "gaaaaagatgtagtaattagatctgagaatttcacaaacaatactaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacactagtggaacaaaatggaatgacactttacagcagatagctaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacctgggaaattatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1127",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1127,
+    "Sequence": "gagaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacatagtaggaaatataagacaggcacattgtaacattagtaaaacaaaatgggataacactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaggcaatgtatgcccctcccatcaaaggactaattaactgtccatcaaatattacagggctgctattaactagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1128",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1128,
+    "Sequence": "gagaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacatagtaggaaatataagacaggcacattgtaacattagtaaaacaaaatgggataacactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaggcaatgtatgcccctcccatcaaaggactaattaactgtccatcaaatattacagggctgctattaactagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1129",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1129,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcgcagacaatactaaaaccataacagtacagctgaaggaatctgtaaaaattaattgtataagacccggcaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaaaagacataacaggaaatataagacaagcacatcgtaacattagtggaacaaaatggaatagcgctttacaacagataggtaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaagtatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccattgaaggacaaattagatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1130",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1130,
+    "Sequence": "gaagaaggggtagtaattagatctgaaaatttcacgaacaatgctaaaaccataatagtacagctgaaggaatctgtaaaaattaattgtataagacccggcaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacagaagacatagtaggaaatataagacaagcacattgtaacattagtggaacaaaatggaatagcgctttacaacagataggtaagaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtgatacaacacagctgtttaacagtacttgggaagctatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1131",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1131,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcgcagacaatactaaaaccataacagtacagctgaaggaatctgtaaaaattaattgtataagacccggcaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaaaagacataacaggaaatataagacaagcacatcgtaacattagtggaacaaaatggaatagcgctttacaacagataggtaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaagtatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccattgaaggacaaattagatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1132",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1132,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccatacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagacataagaaaagcacattgtaacattaatggaacaaaatggaataacactttacagcaggtagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1133",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1133,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtaaaaattaattgtataagacccggcagcaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaaaagacataacaggaaatataagacaagcacattgtaacattagtggaacaaaatggaatagcgcttcacaacagataggtaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtgatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1134",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1134,
+    "Sequence": "gaaaaagatgcagtaactagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtaaaaattaattgtataagacccggcaacaatacaagaaaaagtatacatataggaccggggagagcattttatgcaacaaaagacataacaggaaatataagacaagcacattgtaacattagtggaacaaaatggaatagcgctttacaacagataggtaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtgatacaacacagctgtttaacagtacttgggaaactatcacgctcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaagtgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1135",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1135,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacagacaatactaaaaccataatagtacagctgaatgaatctgtagaaattaattgtacaaggccatacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatggaacaaaatggaataacactttacagcaggtagttaaaaaattaggagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattaggtgttcatcaaatattacagggctgctattaacaagggatggtggt"
+  },
+  {
+    "ID": "p7p093_1136",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1136,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaattttgcagacaatactaaaaccataatagtacagctgaatgaatctgtagaaattaattgtataaggccatacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaatggaacaaaatggaataacactttacagcaggtagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggatccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1137",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1137,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtaataattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaataacactttaaagcagatagttaaaaaattacaagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacagagctgtttaacagtacttgggaaattatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1138",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1138,
+    "Sequence": "gaaaaagaggtagtaattagatctgaaaatttcgcagacaatactaaaaccataatagtacagctgaatgaatctgtacaaattaattgtataaggccatacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagacaagcacattgtaacatttgtagaacaaaatggaataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcctctcccatcgaaggacaaattagatgttcatcaagtattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p093_1139",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 93,
+    "Clone": 1139,
+    "Sequence": "gaagaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaatgaatctgtacaaattaattgtataaggccctacggatatagaaaacaaggtatacatataggaccggggagagcaatttatacagcaggaaacatagtaggagatataagaaaagcacattgtaacattaacggaacaaaatggaataacactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1140",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1140,
+    "Sequence": "gaaaaagatgtagtaattaaatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtggaacaaaatggaatgacactttacagcagatagctaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaattatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctattattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1141",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1141,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaactgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1142",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1142,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1143",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1143,
+    "Sequence": "gaaaaagatgtagtaattagagctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtggaacaaaatggaatgacactctacagcagatagctaaaaaattacaagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaattatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgttattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1144",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1144,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgcaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1145",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1145,
+    "Sequence": "gaaaaagatgtagtaattaaatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtggaacaaaatggaatgacactttacagcagatagctaaaaaattacaagaacaatttgggaataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaattatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtgggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgttattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1146",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1146,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1147",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1147,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1148",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1148,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgcaacattagtaaaacaaaatggaataacactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaattatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccatcaaatattacagggctgttattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1149",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1149,
+    "Sequence": "gaaaaggatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1150",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1150,
+    "Sequence": "gaaaaagaggtagtaattagatctgaaaatttcacagacaatgctaaaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtgggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaaaagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1151",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1151,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtgatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattgaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1152",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1152,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaagaaatctgtagtaattaattgtacaagatacaacaacaatacaagaagaagtatacacataggaccagggcgagcattttatgcaacagaagacgtagtaggaaatataagacaagcacattgtaacattagtaaaacgaaatgggataacactttacagcagatagttaaaaaattaagagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttggagcaatatcacgctccaatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccatcaagtattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1153",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1153,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagagcgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattaaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1154",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1154,
+    "Sequence": "gaaaaggatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtaaaaattaattgtataagacccggcaacaatacgagaaaaagtatacatataggaccggggagagcattttatgcagcaaaggacataacaggaaatataagacaagcacattgtaacattagtggaacaaaatggaatagcgctttacaacagataggtaaaaaattaacagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtgatacaacacagctgtttaatagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggacaaattgaatgttcatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p099_1155",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 99,
+    "Clone": 1155,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccggggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1156",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1156,
+    "Sequence": "gaaaaggatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtggaacaaaatggaaggacactctacagcagatagctaaaaaattacaagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagttgtttaacagtacttgggaaattatcacactcccatgcaaaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1157",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1157,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtaataattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1158",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1158,
+    "Sequence": "gaaaaagatgtagtaattagatccgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaagggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1159",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1159,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacagatggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1160",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1160,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatggcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1161",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1161,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacatagtaggaaatataagacaagcacattgtaacattagtaaaacaaaatgggataacactttacagcagatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctactattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1162",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1162,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacacagctgtttaacagtacttggagcaatatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattagatgtccatcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1163",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1163,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacgatacaagaaaaagtatacacataggaccggggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1164",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1164,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatggtacagctgaatgaatctgtaataattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggggacatagtaggagatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1165",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1165,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtaataattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacatagtaggagatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtatttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1166",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1166,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacagagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1167",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1167,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggatccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1168",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1168,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagatgttgtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggagggaaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1169",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1169,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1170",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1170,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaaaagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacagagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1171",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1171,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacaatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1172",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1172,
+    "Sequence": "gaaaaagatatagtaattagatctgaaaatttcacaaacaatgctagaaccataatagtacagctgaaggaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacatagtaggaaatataagacaagcacattgtaacattagtagaacaaagtgggatgacactttacagcagatagctaaaaaattacaagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacaacagagctgtttaacagtacttgggaaattatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggactaattaactgtccctcaaatattacagggctgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1173",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1173,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggatccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1174",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1174,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaatgaatctgtagtaattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacaggagacgtagtaggaaatataagacaagcacattgtaacattagtagaacaaaatggaatagcactttagagcagatagttaaaaaattaagagaacgatttgggaataaaacaatagtctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  },
+  {
+    "ID": "p7p105_1175",
+    "Patient": 7,
+    "Sample Type": "p",
+    "Month": 105,
+    "Clone": 1175,
+    "Sequence": "gaaaaagatgtagtaattagatctgaaaatttcacaaacaatgctaaaaccataatagtacagctgaaggaatctgtaataattaattgtacaagatacaacaacaatacaagaaaaagtatacacataggaccagggagagcattttatgcaacagaagacgtagtaggaaatataagacaagcacactgtaacattagtagaacaaaatggaataacactttaaagcaaatagttaaaaaattacaagaacaatttgggaataaaacaataatctttaatcaatcctcaggaggggacccagaaattgtaatgcacagttttaattgtggaggggaatttttctactgtaatacatcacagctgtttaacagtacttgggaaactatcacactcccatgcagaataaaacaaattataaacaggtggcaggaagtaggaaaagcaatgtatgcccctcccatcaaaggtctaattaactgtccatcaaatattacagggttgctattaacaagagatggtggt"
+  }
+]

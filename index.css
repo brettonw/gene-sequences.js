@@ -1,0 +1,35 @@
+div[id="bedrock-database-container"] {
+    display: inline-block;
+    font-family: sans-serif;
+    text-align: left;
+    padding: 4px 0px;
+    width: 100%;
+}
+
+div[id="bedrock-database-display"] {
+    height: 500px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    border-color: #bbb;
+}
+
+div[id="sum"] {
+    margin: 5px;
+}
+
+.bedrock-paged-display-table-row {
+    height: 20px;
+}
+
+.bedrock-paged-display-hover {
+    color: white;
+}
+
+.bedrock-combobox-paged-display-table-row {
+    height: 19px;
+}
+
+.bedrock-combobox-paged-display-hover {
+    color: white;
+}
