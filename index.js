@@ -9,6 +9,13 @@ let main = function () {
             return scale < (1.0 + tolerance);
         };
 
+        // condition the data with sequence lengths
+        for (let sequence of sequences) {
+            let sequenceStr = sequence["Sequence"];
+            sequence["Length"] = sequenceStr.length;
+            sequence["Sequence"] = (sequenceStr + "-------------------------").substring(0, 540);
+        }
+
         let CF = Bedrock.CompareFunctions;
         sequences = Bedrock.DatabaseOperations.Sort.new ({ fields:[
                 { name:"Patient", asc:true, type: CF.NUMERIC },
@@ -33,7 +40,8 @@ let main = function () {
                         { name: "Patient", width: 1/16 },
                         { name: "Month", width: 1/16 },
                         { name: "Clone", width: 1/16 },
-                        { name: "Sequence", width: 12/16, type: Bedrock.PagedDisplay.EntryType.LEFT_JUSTIFY }
+                        { name: "Length", width: 1/16 },
+                        { name: "Sequence", width: 11/16, type: Bedrock.PagedDisplay.EntryType.LEFT_JUSTIFY }
                     ]
                 }).makeTableWithHeader ();
 
@@ -43,9 +51,8 @@ let main = function () {
                 let positions = [];
                 let sequenceStrLength = 0;
                 for (let sequence of sequences) {
-                    let sequenceStr = sequence["Sequence"];
-                    if (sequenceStr.length > sequenceStrLength) {
-                        sequenceStrLength = sequenceStr.length;
+                    if (sequence["Sequence"].length !== sequenceStrLength) {
+                        sequenceStrLength = sequence["Sequence"].length;
                         console.log ("Sequence Length: " + sequenceStrLength);
                     }
                 }
