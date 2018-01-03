@@ -14,10 +14,6 @@ div[id="bedrock-database-display"] {
     border-color: #bbb;
 }
 
-div[id="sum"] {
-    margin: 5px;
-}
-
 .bedrock-paged-display-table-row {
     height: 20px;
 }
@@ -33,3 +29,21 @@ div[id="sum"] {
 .bedrock-combobox-paged-display-hover {
     color: white;
 }
+
+.bedrock-paged-display-table-row-entry-text {
+    white-space: nowrap;
+}
+
+.analyze-button {
+    width: 100px;
+    height: 23px;
+    margin-top: 5px;
+    padding: 0;
+    vertical-align: top;
+    border-width: 2px;
+    border-color: #444;
+    border-style: solid;
+    border-radius: 3px;
+    background: rgba(128, 128, 255, 0.66);
+}
+
