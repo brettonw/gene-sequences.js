@@ -1,9 +1,8 @@
-# [gene-sequences.js](https://brettonw.github.io/gene-sequences.js/index.html)
-
-Analysis and visualization of HIV gene sequences
+# HIV Gene Sequences
+[Analysis and visualization of HIV gene sequences](https://brettonw.github.io/gene-sequences.js/index.html).
 
 # Data Set
-A JSON-format data set that represents the C2-V5 region of the *env* gene from HIV-1 samples taken from three different individuals (source: [Shankarappa](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC113104/)).
+A [JSON-format data set](https://brettonw.github.io/gene-sequences.js/subjects.json) that represents the C2-V5 region of the *env* gene from HIV-1 samples taken from three different individuals (source: [Shankarappa](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC113104/)).
 
 There are multiple sequences per subject time point (measured as months post sero-conversion), reflecting the quasispecies (cloud of related viruses) inside the patient. The quasispecies gets more diverse with time, though the most fit virus is thought to outgrow the rest of the viruses so you may get a decrease in viral diversity late in the infection.
 
@@ -28,3 +27,6 @@ Sequence data is:
 |N|any base|
 |. or -|gap|
 
+
+# See Also
+[Genome Browser](https://www.hiv.lanl.gov/content/sequence/genome_browser/browser.html)
