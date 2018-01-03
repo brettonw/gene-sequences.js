@@ -21,8 +21,6 @@ div[id="bedrock-database-display"] {
     border-radius: 2px;
     border-color: #bbb;
     overflow-y: scroll;
-    padding: 4px;
-    font-size: 11px;
 }
 
 .bedrock-log-display::-webkit-scrollbar {

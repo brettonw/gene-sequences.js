@@ -1,8 +1,15 @@
 let Http = Bedrock.Http;
 let analyze;
+let logCount = 0;
+let resetLog = function () {
+    logCount = 0;
+    document.getElementById("bedrock-log-display").innerHTML = "";
+};
 let log = function (text) {
     console.log (text);
-    document.getElementById("bedrock-log-display").innerHTML += "(" + new Date ().getTime () + ") - " + text + "<br>";
+    let odd = ((++logCount & 0x01) == 1) ? " bedrock-paged-display-odd" : "";
+    let html = "<div class='bedrock-paged-display-table-row" + odd + "'><div class='bedrock-paged-display-table-row-entry-text'>(" + new Date ().getTime () + ") - " + text + "</div></div>";
+    document.getElementById("bedrock-log-display").innerHTML += html;
 };
 
 let main = function () {
@@ -55,7 +62,7 @@ let main = function () {
                 // now run some analysis - what positions in the sequences vary - start by pivoting
                 // the data into strings on the positions
                 analyze = function () {
-                    document.getElementById("bedrock-log-display").innerText = "";
+                    resetLog ();
                     let sequenceCount = sequences.length;
                     let positions = [];
                     let sequenceStrLength = 0;

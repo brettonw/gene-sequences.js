@@ -1,5 +1,5 @@
 # HIV Gene Sequences
-[Analysis and visualization of HIV gene sequences](https://brettonw.github.io/gene-sequences.js/index.html).
+[Analysis and visualization of HIV gene sequences](https://brettonw.github.io/gene-sequences.js/).
 
 # Data Set
 A [JSON-format data set](https://brettonw.github.io/gene-sequences.js/subjects.json) that represents the C2-V5 region of the *env* gene from HIV-1 samples taken from three different individuals (source: [Shankarappa](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC113104/)).
