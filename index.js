@@ -1,9 +1,14 @@
 let Http = Bedrock.Http;
 let analyze;
+let log = function (text) {
+    console.log (text);
+    document.getElementById("bedrock-log-display").innerHTML += "(" + new Date ().getTime () + ") - " + text + "<br>";
+};
+
 let main = function () {
     let now = new Date ().getTime ();
     Http.get ("subjects.json?" + now, function (sequences) {
-        console.log ("loaded sequences.");
+        log ("loaded sequences.");
 
         let withinTolerance = function (a, b, tolerance) {
             let scale = (a > b) ? (a / b) : (b / a);
@@ -50,13 +55,14 @@ let main = function () {
                 // now run some analysis - what positions in the sequences vary - start by pivoting
                 // the data into strings on the positions
                 analyze = function () {
+                    document.getElementById("bedrock-log-display").innerText = "";
                     let sequenceCount = sequences.length;
                     let positions = [];
                     let sequenceStrLength = 0;
                     for (let sequence of sequences) {
                         if (sequence["Sequence"].length !== sequenceStrLength) {
                             sequenceStrLength = sequence["Sequence"].length;
-                            console.log ("Sequence Length: " + sequenceStrLength);
+                            log ("Sequence Length: " + sequenceStrLength);
                         }
                     }
                     for (let i = 0; i < sequenceStrLength; ++i) {
@@ -80,7 +86,7 @@ let main = function () {
                             let currentChar = positions[i][j];
                             range[currentChar] = (range[currentChar] !== undefined) ? (range[currentChar] + 1) : 1;
                             if (currentChar !== lastChar) {
-                                //console.log("Position " + i + " transitons from '" + lastChar + "' to '" + currentChar + "'" );
+                                //log("Position " + i + " transitons from '" + lastChar + "' to '" + currentChar + "'" );
                                 let transition = lastChar + currentChar;
                                 transitions[transition] = (transitions[transition] !== undefined) ? (transitions[transition] + 1) : 1;
                                 varies = true;
@@ -98,7 +104,7 @@ let main = function () {
                                 shrunkSequence += sequenceStr.charAt (i);
                             }
                         }
-                        //console.log ("Shrunk sequence from " + sequenceStr.length + " to " + shrunkSequence.length);
+                        //log ("Shrunk sequence from " + sequenceStr.length + " to " + shrunkSequence.length);
                         return shrunkSequence;
                     };
 
@@ -109,7 +115,7 @@ let main = function () {
                     }
 
                     let shrunkSequenceStrLength = sequences[0]["Sequence"].length;
-                    console.log ("Shrunk Sequence Length to: " + shrunkSequenceStrLength);
+                    log ("Shrunk Sequence Length to: " + shrunkSequenceStrLength);
 
                     // spew a few stats on the range and transitions
                     let rangeKeys = Object.keys (range);
@@ -117,10 +123,10 @@ let main = function () {
                     for (let rangeKey of rangeKeys) {
                         totalRangeCount += range[rangeKey];
                     }
-                    console.log ("Total Range Count: " + totalRangeCount);
+                    log ("Total Range Count: " + totalRangeCount);
                     for (let rangeKey of rangeKeys) {
                         let percentage = range[rangeKey] / totalRangeCount;
-                        console.log ("Range Value: " + rangeKey + " -> " + range[rangeKey] + " (" + Math.floor (100 * percentage) + "%)");
+                        log ("Range Value: " + rangeKey + " -> " + range[rangeKey] + " (" + Math.floor (100 * percentage) + "%)");
                         //range[rangeKey] = percentage;
                     }
 
@@ -129,10 +135,10 @@ let main = function () {
                     for (let transition of transitionKeys) {
                         totalTransitionCount += transitions[transition];
                     }
-                    console.log ("Total Transition Count: " + totalTransitionCount);
+                    log ("Total Transition Count: " + totalTransitionCount);
                     for (let transition of transitionKeys) {
                         let percentage = transitions[transition] / totalTransitionCount;
-                        console.log ("Transition: " + transition + " -> " + transitions[transition] + " (" + Math.floor (100 * percentage) + "%)");
+                        log ("Transition: " + transition + " -> " + transitions[transition] + " (" + Math.floor (100 * percentage) + "%)");
                         //transitions[transition] = percentage;
                     }
 
@@ -146,11 +152,11 @@ let main = function () {
                             let transitionBA = rangeKeyB + rangeKeyA;
                             let pass = withinTolerance (transitions[transitionAB], transitions[transitionBA], 0.05);
                             allPass &= pass;
-                            console.log (transitionAB + " " + (pass ? "==" : "!=") + " " + transitionBA + " (" + (pass ? "PASS" : "FAIL") + ")");
+                            log (transitionAB + " " + (pass ? "==" : "!=") + " " + transitionBA + " (" + (pass ? "PASS" : "FAIL") + ")");
                         }
                     }
                     if (!allPass) {
-                        console.log ("ALERT: TRANSITIONS ARE NOT BI-DIRECTIONAL");
+                        log ("ALERT: TRANSITIONS ARE NOT BI-DIRECTIONAL");
                     }
 
                     // convert the transition percentages to lengths

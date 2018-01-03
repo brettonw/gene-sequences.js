@@ -14,6 +14,30 @@ div[id="bedrock-database-display"] {
     border-color: #bbb;
 }
 
+.bedrock-log-display {
+    height: 500px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    border-color: #bbb;
+    overflow-y: scroll;
+    padding: 4px;
+    font-size: 11px;
+}
+
+.bedrock-log-display::-webkit-scrollbar {
+    width: 12px;
+}
+
+.bedrock-log-display::-webkit-scrollbar-track{
+    background: #eee;
+}
+
+.bedrock-log-display::-webkit-scrollbar-thumb{
+    width: 12px;
+    background: #aaa;
+}
+
 .bedrock-paged-display-table-row {
     height: 20px;
 }
@@ -38,6 +62,7 @@ div[id="bedrock-database-display"] {
     width: 100px;
     height: 23px;
     margin-top: 5px;
+    margin-bottom: 5px;
     padding: 0;
     vertical-align: top;
     border-width: 2px;
