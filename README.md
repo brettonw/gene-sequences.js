@@ -29,4 +29,4 @@ Sequence data is:
 
 
 # See Also
-[Genome Browser](https://www.hiv.lanl.gov/content/sequence/genome_browser/browser.html)
+[Genome Browser](https://www.hiv.lanl.gov/content/index)
