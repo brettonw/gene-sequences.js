@@ -52,10 +52,6 @@ div[id="bedrock-database-display"] {
     color: white;
 }
 
-.bedrock-paged-display-table-row-entry-text {
-    white-space: nowrap;
-}
-
 .analyze-button {
     width: 100px;
     height: 23px;
